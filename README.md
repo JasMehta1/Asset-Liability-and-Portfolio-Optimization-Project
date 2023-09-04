@@ -1,4 +1,4 @@
-# Asset-Liability-and-Portfolio-Optimization-Project
+# Asset-Liability and Portfolio Optimization Project
 Quantitative Portfolio Optimization Project
 
 Quantitative Portfolio Optimization:
